@@ -29,6 +29,7 @@ android.permissions = BLUETOOTH, BLUETOOTH_ADMIN
 # (list) List of exclusions using pattern matching
 # Do not prefix with './'
 #source.exclude_patterns = license,images/*/*.jpg
+android.ndk = 25b
 
 # (str) Application versioning (method 1)
 version = 0.1
